@@ -1,2 +1,2 @@
 # toptrumps
-A simplified version of the game "Top Trumps".
+A simplified version of the game "Top Trumps" in Java.
